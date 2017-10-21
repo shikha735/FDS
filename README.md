@@ -21,4 +21,4 @@ Edit the files locally on your system and create a pull request.
 Shikha Sharma(admin) - @shikha735
 ###
 
-Originally developed here by me: https://bitbucket.org/shikha735/fds
+Originally developed here: https://bitbucket.org/shikha735/fds
